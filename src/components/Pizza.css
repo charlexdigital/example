@@ -1,0 +1,20 @@
+.card {
+  width: 20%;
+  border: 2px solid #443002;
+  margin: 20px;
+  float: left;
+  padding: 10px;
+}
+.card img {
+  width: 100%;
+}
+.card h2,
+.card p,
+.colorcat {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.colorcat {
+  padding: 2px;
+  border-radius: 5px;
+}
